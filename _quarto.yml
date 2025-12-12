@@ -4,7 +4,7 @@ project:
 
 website:
   cookie-consent: true
-  site-url: https://peatcolours.github.io
+  site-url: https://PeatECR.github.io
   favicon: "images/logos/tracking-the-colour-of-peatlands-1.jpg"
   navbar:
     logo: "images/logos/tracking-the-colour-of-peatlands-1.jpg"
