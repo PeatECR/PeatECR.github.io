@@ -1,2 +1,9 @@
 /* css styles */
 
+.navbar-logo {
+  height: 200px !important; /* Adjust the pixel value as needed */
+  width: 200px !important;
+  /* Optionally, you can set an explicit height or width */
+  /* height: 100px !important; */
+  /* width: auto !important; */
+}

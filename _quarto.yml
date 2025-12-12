@@ -3,7 +3,6 @@ project:
   output-dir: docs
 
 website:
-  cookie-consent: true
   site-url: https://PeatECR.github.io
   favicon: "images/logos/tracking-the-colour-of-peatlands-1.jpg"
   navbar:
@@ -42,14 +41,14 @@ format:
 
 
 
-babelquarto:
-  languagecodes:
-  - name: fr
-    text: "Français"
-  - name: en
-    text: "English"
-  mainlanguage: 'en'
-  languages: ['fr']
-description-en: description in en
-author-en: author in en
-lang: en
+# babelquarto:
+  # languagecodes:
+  # - name: fr
+    # text: "Français"
+  # - name: en
+    # text: "English"
+  # mainlanguage: 'en'
+  # languages: ['fr']
+# description-en: description in en
+# author-en: author in en
+# lang: en
