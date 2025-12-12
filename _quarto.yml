@@ -4,19 +4,16 @@ project:
 
 website:
   site-url: https://PeatECR.github.io
-  favicon: "images/logos/tracking-the-colour-of-peatlands-1.jpg"
+  # favicon: "images/logos/tracking-the-colour-of-peatlands-1.jpg"
   navbar:
-    logo: "images/logos/tracking-the-colour-of-peatlands-1.jpg"
+    # logo: "images/logos/tracking-the-colour-of-peatlands-1.jpg"
     left:
       - index.qmd
-      - tracking.qmd
-      - peatpic.qmd
-      - quebec.qmd
 
     right:
       - icon: github
-        href: https://github.com/PeatColours
-        aria-label: PeatColours GitHub
+        href: https://github.com/PeatECR
+        aria-label: PeatECR GitHub
         
   sidebar:
     - id: home
@@ -33,7 +30,7 @@ website:
 format:
   html:
     theme:
-      - flatly
+      - sketchy
       - custom.scss
     css: styles.css
     toc: true

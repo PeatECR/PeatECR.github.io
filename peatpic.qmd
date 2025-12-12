@@ -1,5 +1,0 @@
----
-title: "The PeatPic Project"
----
-
-This is the PeatPic Project page.

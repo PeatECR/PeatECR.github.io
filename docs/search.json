@@ -1,17 +1,14 @@
 [
   {
-    "objectID": "tracking.html",
-    "href": "tracking.html",
-    "title": "Tracking the Colour of Peatlands",
+    "objectID": "test.html",
+    "href": "test.html",
+    "title": "menu-test",
     "section": "",
-    "text": "This is the Tracking the Colour of Peatlands page."
-  },
-  {
-    "objectID": "quebec.html",
-    "href": "quebec.html",
-    "title": "Suivre la couleur des milieux humides au Québec",
-    "section": "",
-    "text": "This is the Suivre la couleur des milieux humides au Québec page."
+    "text": "This is a age to test the menu function.",
+    "crumbs": [
+      "Home",
+      "test"
+    ]
   },
   {
     "objectID": "index.html",
@@ -21,24 +18,6 @@
     "text": "This is the PeatColours homepage.",
     "crumbs": [
       "Home"
-    ]
-  },
-  {
-    "objectID": "peatpic.html",
-    "href": "peatpic.html",
-    "title": "The PeatPic Project",
-    "section": "",
-    "text": "This is the PeatPic Project page."
-  },
-  {
-    "objectID": "test.html",
-    "href": "test.html",
-    "title": "menu-test",
-    "section": "",
-    "text": "This is a age to test the menu function.",
-    "crumbs": [
-      "Home",
-      "test"
     ]
   }
 ]
